@@ -1,2 +1,5 @@
 # prework-fullstack-javascript
-This project is the overview of JavaScript  Variables and Types Conditionals and Functions APIs, Objects, and Interfaces
+This project is the overview of JavaScript  
+1) Variables and Types
+2) Conditionals and Functions
+3) APIs, Objects, and Interfaces
